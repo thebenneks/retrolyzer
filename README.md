@@ -11,7 +11,7 @@ plus
 
 ![](images/logicanalyzer.png)
 
-plus 
+using 
 
 ![](images/spartan6.jpg)
 
