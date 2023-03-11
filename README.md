@@ -7,8 +7,13 @@ The goal is to add bus transceivers for level shifting of the 5V TTL world to th
 
 ![](images/68000.jpg)
 
+plus 
 
 ![](images/logicanalyzer.png)
+
+plus 
+
+![](images/spartan6.jpg)
 
 ```mermaid
   graph TD;
