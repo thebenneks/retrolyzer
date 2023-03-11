@@ -30,3 +30,11 @@ component [Last\ncomponent] as Comp4
   }
 @enduml
 ```
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
