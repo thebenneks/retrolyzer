@@ -1,5 +1,5 @@
 # RetroLyzer
-FPGA Board that allows hacking of a MC68000P10 plus a 48-Bit LogicAnalyzer
+FPGA Board for a 64-Bit LogicAnalyzer plus a board that allows hacking of a MC68000P10 by plugging it into the logic analyzer board. Thus other Retro CPUs can be hacked :-)
 
 The orginal idea was to build a logicanalyzer and as I came across some retro computing and remembered the fun I had with 68K CPUs I extended the original design by a socket for a MC68000P10 64 DIP. 
 
@@ -16,6 +16,13 @@ using
 ![](images/spartan6.jpg)
 
 resulting into something like this 
-![](images/pcbboard3d.PNG)
+
+<img src="./images/pcbboard3d" alt="3D PCB Board" width="800" height="800"/>
 
 stay tuned .. more to come :-)
+
+# LogicAnylzer Board
+[LogicAnalyzer Details](kicad/logicanalyzer/README.md)
+
+# MC68000P10 Board
+[MC68000P10 Details](kicad/mc68000board/README.md)
