@@ -24,6 +24,8 @@ resulting into something like this
 
 # Retro MC68k-HackingBoard
 ![](images/MC68KRetroBoard.PNG)
+![](images/MC68KRetroBoardBt.PNG)
 [MC68000P10 Details](kicad/mc68000board/README.md)
+
 
 stay tuned .. more to come :-)
