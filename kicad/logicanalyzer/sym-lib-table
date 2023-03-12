@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "logicanalyzer_parts")(type "Legacy")(uri "${KIPRJMOD}/logicanalyzer_parts.lib")(options "")(descr ""))
+  (lib (name "logicanalyzerboard-rescue")(type "KiCad")(uri "${KIPRJMOD}/logicanalyzerboard-rescue.kicad_sym")(options "")(descr ""))
+)

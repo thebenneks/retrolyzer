@@ -17,7 +17,10 @@ using
 
 resulting into something like this 
 
-<img src="images/pcbboard3d.PNG" alt="3D PCB Board" width="800" height="800"/>
+<img src="images/pcbboard3d.PNG" alt="3D PCB Board" width="800"/>
+
+<img src="images/MC68kRetroBoard.PNG" alt="3D PCB Board" width="800" />
+
 
 stay tuned .. more to come :-)
 

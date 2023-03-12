@@ -1,0 +1,61 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid b9515de2-82b6-47b7-8917-b07b3ab71c27)
+
+  (paper "A4")
+
+  (title_block
+    (title "LogicAnalyzer")
+    (date "2019-12-27")
+    (rev "V0.0.1")
+    (company "SCC")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Main Sheet of the LogicAnalyzer Board\nThe design is split into two sheets \n- PowerSupply\n- FPGA\n "
+    (at 45.72 29.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e2107823-03f4-4f5b-80d7-4c37d464047c)
+  )
+
+  (sheet (at 44.45 41.91) (size 72.39 40.64) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005e086be2)
+    (property "Sheetname" "PowerSupply" (at 44.45 41.1984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "logicanalyzer_power.kicad_sch" (at 44.45 83.1346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "logicanalyzerboard"
+        (path "/b9515de2-82b6-47b7-8917-b07b3ab71c27" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 151.13 40.64) (size 92.71 40.64) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005e088a7c)
+    (property "Sheetname" "FPGA" (at 151.13 39.9284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "logicanalyzer_fpga.kicad_sch" (at 151.13 81.8646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "logicanalyzerboard"
+        (path "/b9515de2-82b6-47b7-8917-b07b3ab71c27" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
