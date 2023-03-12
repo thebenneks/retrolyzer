@@ -17,8 +17,10 @@ using
 
 resulting into something like this 
 
+# LogicAnalyzer Board
 <img src="images/pcbboard3d.PNG" alt="3D PCB Board" width="800"/>
 
+# Retro MC68k-HackingBoard
 <img src="images/MC68kRetroBoard.PNG" alt="3D PCB Board" width="800" />
 
 
