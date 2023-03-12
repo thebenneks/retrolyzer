@@ -18,7 +18,7 @@ using
 resulting into something like this 
 
 # LogicAnalyzer Board
-<img src="images/pcbboard3d.PNG" alt="3D PCB Board" width="800"/>
+<img src="images/pcbboard3d.PNG" alt="3D PCB Board" width="800"/>  
 
 [LogicAnalyzer Details](kicad/logicanalyzer/README.md)
 
