@@ -19,15 +19,10 @@ resulting into something like this
 
 # LogicAnalyzer Board
 <img src="images/pcbboard3d.PNG" alt="3D PCB Board" width="800"/>
-
-# Retro MC68k-HackingBoard
-<img src="images/MC68kRetroBoard.PNG" alt="3D PCB Board" width="800" />
-
-
-stay tuned .. more to come :-)
-
-# LogicAnylzer Board
 [LogicAnalyzer Details](kicad/logicanalyzer/README.md)
 
-# MC68000P10 Board
+# Retro MC68k-HackingBoard
+![](images/MC68KRetroBoard.PNG)
 [MC68000P10 Details](kicad/mc68000board/README.md)
+
+stay tuned .. more to come :-)
